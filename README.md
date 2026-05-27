@@ -1,7 +1,7 @@
 # Colin McDonough
 
 **Director of Business Development & Technology Partnerships @ 50 Words LLC**
-AI/ML Developer | Open Source Contributor | Security Researcher | Blockchain Forensics
+AI/ML Developer | Open Source Contributor | Security Researcher
 
 ---
 
@@ -20,11 +20,17 @@ Built [GridWatch](https://github.com/ColinM-sys/GridWatch) — AI urban intellig
 **Hack for Impact 2026**
 Built [Donor Prospector](https://github.com/ColinM-sys/donor-prospector) — AI-powered donor prospecting tool
 
+**SCSP National Security Hackathon 2026**
+Built [strait-of-consequences](https://github.com/ColinM-sys/strait-of-consequences) — Strait of Hormuz wargame simulation using local LLM
+
 🔐 **CVE-2026-24222** | CVSS 8.6 High | NVIDIA NemoClaw
 Environment variable exposure — discovered and disclosed via NVIDIA PSIRT coordinated disclosure. Credited: Colin McDonough of 50 Words.
 
-🔍 **Blockchain Forensics**
-Independently identified a $3B+ sanctions evasion network using only public APIs. Traced active USD money laundering infrastructure across five major exchanges via multi-hop token fingerprinting.
+🔐 **Multiple High/Critical NVIDIA PSIRT findings submitted** — NeMo Agent Toolkit & NemoClaw
+Includes confirmed RCE PoC. Pending coordinated disclosure.
+
+🔐 **Samsung PSIRT researcher** — Zero-auth DLNA injection PoC confirmed on hardware
+Autonomous agent exploited every Samsung smart TV on network simultaneously. Physical security attack chains, RCE-class endpoints documented.
 
 ---
 
@@ -37,9 +43,13 @@ Independently identified a $3B+ sanctions evasion network using only public APIs
 
 ## Projects
 
+- **[model-router](https://github.com/ColinM-sys/model-router)** — 65-tool security orchestrator, multi-GPU swarm, self-healing 4-machine cluster
 - **[DashUnbored](https://github.com/ColinM-sys/Dashunbored)** — AI admin portal (FastAPI + React + ChromaDB + Ollama)
 - **[FluxForge](https://github.com/ColinM-sys/FluxForge)** — Agentic image generation pipeline with PuLID Flux face preservation, multi-GPU ComfyUI orchestration
 - **[ForgeRunner](https://github.com/ColinM-sys/ForgeRunner)** — Training data quality dashboard + multi-tool AI agent with LoRA fine-tuning on Llama-3.1-Nemotron
+- **[strait-of-consequences](https://github.com/ColinM-sys/strait-of-consequences)** — SCSP hackathon Strait of Hormuz wargame, local LLM
+- **[DeviceTrust](https://github.com/ColinM-sys/DeviceTrust)** — LAN device trust monitor, hardware fingerprinting
+- **[claude-to-claude](https://github.com/ColinM-sys/claude-to-claude)** — Distributed self-healing multi-machine Claude bridge
 - **[tesla-can-boost](https://github.com/ColinM-sys/tesla-can-boost)** — Open-source Tesla CAN bus drive mode injection (Performance/Standard/Chill) with live dashboard
 - **[Claude-Discord-Bot](https://github.com/ColinM-sys/Claude-Discord-Bot)** — AI Discord bots with Claude, file bridging, and conversation memory
 - **[Claude-Token-Tracker](https://github.com/ColinM-sys/Claude-Token-Tracker)** — Local dashboard for tracking Claude Code token usage and costs
@@ -56,7 +66,9 @@ Flux / Stable Diffusion · ComfyUI · Remotion · Three.js · WebSocket · OpenC
 SQLAlchemy · ChromaDB · Vanna · LangChain · uWSGI · Discord.py
 CAN Bus · CAN Bus Hardware · Embedded AI · Jetson / ARM64 · Multi-Agent Systems
 Tailscale · SSH Tunneling · Penetration Testing · Metasploit · Burp Suite
-Blockchain Forensics · Cryptocurrency Analysis · OSINT · Token Fingerprinting
+UPnP / DLNA · SOAP Exploitation · Network Reconnaissance · Hardware Security Research
+CVSS Scoring · Coordinated Vulnerability Disclosure · Autonomous Red Team Agents
+DGX Spark · Qwen · DeepSeek Coder · Samsung PSIRT · NVIDIA PSIRT
 
 ---
 
