@@ -1,7 +1,7 @@
 # Colin McDonough
 
 **Director of Business Development & Technology Partnerships @ 50 Words LLC**
-AI/ML Developer | Open Source Contributor | Security Researcher
+AI/ML Developer | Open Source Contributor | Security Researcher | Blockchain Forensics
 
 ---
 
@@ -31,6 +31,9 @@ Includes confirmed RCE PoC. Pending coordinated disclosure.
 
 🔐 **Samsung PSIRT researcher** — Zero-auth DLNA injection PoC confirmed on hardware
 Autonomous agent exploited every Samsung smart TV on network simultaneously. Physical security attack chains, RCE-class endpoints documented.
+
+🔍 **Blockchain Forensics**
+Independently identified a $3B+ sanctions evasion network using only public APIs. Traced active USD money laundering infrastructure across five major exchanges via multi-hop token fingerprinting.
 
 ---
 
@@ -69,6 +72,7 @@ Tailscale · SSH Tunneling · Penetration Testing · Metasploit · Burp Suite
 UPnP / DLNA · SOAP Exploitation · Network Reconnaissance · Hardware Security Research
 CVSS Scoring · Coordinated Vulnerability Disclosure · Autonomous Red Team Agents
 DGX Spark · Qwen · DeepSeek Coder · Samsung PSIRT · NVIDIA PSIRT
+Blockchain Forensics · Cryptocurrency Analysis · OSINT · Token Fingerprinting
 
 ---
 
