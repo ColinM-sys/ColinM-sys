@@ -1,7 +1,7 @@
 # Colin McDonough
 
 **Director of Business Development & Technology Partnerships @ 50 Words LLC**
-AI/ML Developer | Open Source Contributor | Security Researcher
+AI/ML Developer | Open Source Contributor | Security Researcher | Blockchain Forensics
 
 ---
 
@@ -22,6 +22,9 @@ Built [Donor Prospector](https://github.com/ColinM-sys/donor-prospector) — AI-
 
 🔐 **CVE-2026-24222** | CVSS 8.6 High | NVIDIA NemoClaw
 Environment variable exposure — discovered and disclosed via NVIDIA PSIRT coordinated disclosure. Credited: Colin McDonough of 50 Words.
+
+🔍 **Blockchain Forensics**
+Independently identified a $3B+ sanctions evasion network using only public APIs. Traced active USD money laundering infrastructure across five major exchanges via multi-hop token fingerprinting.
 
 ---
 
@@ -53,6 +56,7 @@ Flux / Stable Diffusion · ComfyUI · Remotion · Three.js · WebSocket · OpenC
 SQLAlchemy · ChromaDB · Vanna · LangChain · uWSGI · Discord.py
 CAN Bus · CAN Bus Hardware · Embedded AI · Jetson / ARM64 · Multi-Agent Systems
 Tailscale · SSH Tunneling · Penetration Testing · Metasploit · Burp Suite
+Blockchain Forensics · Cryptocurrency Analysis · OSINT · Token Fingerprinting
 
 ---
 
