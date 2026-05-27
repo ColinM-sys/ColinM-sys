@@ -46,17 +46,25 @@ Independently identified a $3B+ sanctions evasion network using only public APIs
 
 ## Projects
 
+- **[space-domain-awareness](https://github.com/ColinM-sys/space-domain-awareness)** — Real-time satellite tracking, conjunction alerts, HVT spotlight, and AI-adjudicated space crisis exercises on an interactive 3D globe
 - **[model-router](https://github.com/ColinM-sys/model-router)** — 65-tool security orchestrator, multi-GPU swarm, self-healing 4-machine cluster
 - **[DashUnbored](https://github.com/ColinM-sys/Dashunbored)** — AI admin portal (FastAPI + React + ChromaDB + Ollama)
 - **[FluxForge](https://github.com/ColinM-sys/FluxForge)** — Agentic image generation pipeline with PuLID Flux face preservation, multi-GPU ComfyUI orchestration
 - **[ForgeRunner](https://github.com/ColinM-sys/ForgeRunner)** — Training data quality dashboard + multi-tool AI agent with LoRA fine-tuning on Llama-3.1-Nemotron
-- **[strait-of-consequences](https://github.com/ColinM-sys/strait-of-consequences)** — SCSP hackathon Strait of Hormuz wargame, local LLM
-- **[DeviceTrust](https://github.com/ColinM-sys/DeviceTrust)** — LAN device trust monitor, hardware fingerprinting
-- **[claude-to-claude](https://github.com/ColinM-sys/claude-to-claude)** — Distributed self-healing multi-machine Claude bridge
+- **[GridWatch](https://github.com/ColinM-sys/GridWatch)** — AI-powered urban intelligence and dispatch platform for NYC
+- **[StraitOfConsequences](https://github.com/ColinM-sys/StraitOfConsequences)** — AI wargame simulating Strait of Hormuz crisis escalation, local LLM inference, RAG intel chat, live satellite imagery
+- **[DeviceTrust](https://github.com/ColinM-sys/DeviceTrust)** — LAN device trust monitor with hardware fingerprinting, web dashboard, and one-click firewall control
+- **[DevJourney](https://github.com/ColinM-sys/DevJourney)** — Interactive developer skill tracker — 69 weighted skills across 16 categories with radar chart and velocity tracking
+- **[claude-to-claude](https://github.com/ColinM-sys/claude-to-claude)** — Distributed self-healing multi-machine Claude bridge with transparent Anthropic API failover
 - **[tesla-can-boost](https://github.com/ColinM-sys/tesla-can-boost)** — Open-source Tesla CAN bus drive mode injection (Performance/Standard/Chill) with live dashboard
+- **[fps-arena](https://github.com/ColinM-sys/fps-arena)** — Browser-based 1v1 FPS maze arena with Three.js and WebSocket multiplayer
+- **[list-finder](https://github.com/ColinM-sys/list-finder)** — Contact finder agent — searches email lists and DuckDuckGo for contact info
+- **[donor-prospector](https://github.com/ColinM-sys/donor-prospector)** — AI-powered donor prospecting tool
+- **[art-302](https://github.com/ColinM-sys/art-302)** — AI-powered local art discovery using NVIDIA Nemotron
 - **[Claude-Discord-Bot](https://github.com/ColinM-sys/Claude-Discord-Bot)** — AI Discord bots with Claude, file bridging, and conversation memory
-- **[Claude-Token-Tracker](https://github.com/ColinM-sys/Claude-Token-Tracker)** — Local dashboard for tracking Claude Code token usage and costs
+- **[Claude-Token-Tracker](https://github.com/ColinM-sys/Claude-Token-Tracker)** — Local web dashboard for tracking Claude Code token usage and costs
 - **[ai-video-studio](https://github.com/ColinM-sys/ai-video-studio)** — AI video generation pipeline (Remotion + ComfyUI, multi-GPU)
+- **[local-network-chat](https://github.com/ColinM-sys/local-network-chat)** — Local chat between computers on the same network
 - **50 Words AI Pipeline** — Multi-model LLM pipeline for PR and media drafting (Qwen 2.5 14B + Ollama, 3-machine distributed setup)
 
 ---
