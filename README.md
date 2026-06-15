@@ -35,8 +35,8 @@ Autonomous agent used. Physical security attack chains, RCE-class endpoints docu
 🔍 **Blockchain Forensics**
 Independently identified a $3B+ sanctions evasion network using only public APIs. Traced active USD money laundering infrastructure across five major exchanges via multi-hop token fingerprinting.
 
-🌊 **Maritime SIGINT Operation — 2026 Strait of Hormuz Crisis**
-Real-time geospatial data operation conducted during active geopolitical event. Covered by international news media and major YouTube channels.
+🌊 **Maritime SIGINT & Vessel Tracking**
+Real-time AIS decoding (NMEA 0183 / ITU-R M.1371) and geospatial vessel-tracking systems deployed on edge hardware.
 
 ---
 
@@ -68,7 +68,7 @@ Real-time geospatial data operation conducted during active geopolitical event. 
 - **[art-302](https://github.com/ColinM-sys/art-302)** — AI-powered local art discovery using NVIDIA Nemotron
 - **[local-network-chat](https://github.com/ColinM-sys/local-network-chat)** — Local chat between computers on the same network
 - **50 Words AI Pipeline** — Multi-model LLM pipeline for PR and media drafting (Qwen 2.5 14B + Ollama, 3-machine distributed setup)
-- **Maritime SIGINT Project** — Real-time geospatial data broadcasting at scale; edge device deployment
+- **Maritime SIGINT Project** — Real-time AIS decoding and geospatial vessel tracking; edge device deployment
 
 ---
 
@@ -99,13 +99,16 @@ DGX Spark (GB10 Grace Blackwell) · Jetson Orin Nano · NVIDIA GPU Cluster · Mu
 Tailscale · SSH Tunneling · ngrok · WebSocket · SCP · RDP · OpenSSH · UDP Broadcasting · Real-Time Data Broadcasting
 
 **Hardware & Embedded Protocols**
-CAN Bus · OBD2 · ELM327 · pyserial · python-can · Embedded AI
+CAN Bus · OBD2 · ELM327 · UART · JTAG · SPI · Firmware Extraction · Flash Dumping · Hardware Reverse Engineering · pyserial · python-can · Embedded AI
 
 **Geospatial & Domain Awareness**
 Mapbox GL JS · deck.gl · Leaflet · satellite.js · Celestrak · TLE Orbital Data · ArcGIS · Sentinel-2 · Copernicus · OpenStreetMap · Orbital Mechanics · Conjunction Analysis · Space Domain Awareness · Real-ESRGAN
 
 **Maritime SIGINT & Protocol Engineering**
-Maritime SIGINT · RF Protocol Engineering · Packet Engineering · Low-Level Protocol Implementation · Geospatial Tracking · Edge Device Deployment
+Maritime SIGINT · AIS (ITU-R M.1371) · NMEA 0183 · RF Protocol Engineering · Packet Engineering · Bitstream Encoding · Geospatial Tracking · Edge Device Deployment
+
+**RF, Wireless & SDR Security**
+Software-Defined Radio (SDR) · GNU Radio · 802.11 / WiFi Security · Sub-GHz RF Protocol Analysis · RF Signal Replay · BLE Security Analysis · Wireless HID/Peripheral Security · AIS / ADS-B Decoding · Wardriving
 
 **Security & Red Team**
 Kali Linux · Penetration Testing · Metasploit · Burp Suite · UPnP / DLNA · SOAP Exploitation · Network Reconnaissance · Hardware Security Research · Hardware Fingerprinting · Vulnerability Assessment · Coordinated Vulnerability Disclosure · Autonomous Red Team Agents · LLM Security · NVIDIA PSIRT · Samsung PSIRT
