@@ -63,7 +63,7 @@ Built [Donor Prospector](https://github.com/ColinM-sys/donor-prospector) — AI-
 **SCSP National Security Hackathon 2026**
 Built [StraitOfConsequences](https://github.com/ColinM-sys/StraitOfConsequences) — Strait of Hormuz wargame simulation using local LLM
 
-🏆 **Maritime Hacking Village CTF 2026** — 2,330 pts / 19 solves
+🏆 **Maritime Hacking Village CTF 2026** — 5th place overall / 2,330 pts / 19 solves in 24 hours
 
 ---
 
