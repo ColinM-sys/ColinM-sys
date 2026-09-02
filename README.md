@@ -7,6 +7,8 @@ AI/ML Developer | Security Researcher | Open Source Contributor | Maritime SIGIN
 
 ## 🔥 Recent (2026)
 
+**Callsign:** Jersey Devil 404
+
 **Maritime Security Research** (Aug 2026)  
 Identified critical vulnerabilities in naval vessel management systems during coordinated disclosure process. Steered real vessels, demonstrated system compromise under CVD protocol.
 
