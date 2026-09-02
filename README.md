@@ -38,7 +38,7 @@ LLM-driven red team framework for automated security research and assessment.
 - **SCSP AI+ Expo** (Washington D.C., May) — 20K attendees, national security AI
 - **SCSP AI+ Discovery Genesis Mission**
 - **WordPress WordCamp** — Contributor day, semantic search work
-- **Convergent TV World** (2026) — Streaming & convergent media innovation
+- **Convergent TV World 2026** (The Times Center, NYC, Mar 5–6) — Cross-screen TV strategy, FAST/AVOD, retail media, unified measurement
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
 - **Maritime Hacking Village CTF** (Aug 8–10) — 2,330 pts / 19 solves
 
