@@ -29,7 +29,7 @@ LLM-driven red team framework for automated security research and assessment.
 ## 🎤 Conferences & Events (2025–2026)
 
 - **Oracle AI World** (Oct 2025) — First-ever inaugural event, AI infrastructure & enterprise
-- **NVIDIA GTC DC** (2025)
+- **NVIDIA GTC Washington D.C.** (Oct 28–29, 2025) — AI/accelerated computing, Jensen Huang keynote, government leaders panel
 - **CES 2026** (Las Vegas, Jan 5) — NVIDIA Live keynote with CEO Jensen Huang, AI/robotics/Vera Rubin GPU announcements
 - **NVIDIA GTC 2026** (San Jose, Mar 16–19) — 4 hackathons, Hack to Create winner
 - **Oracle AI World Tour NYC** (Apr 9, 2026)
