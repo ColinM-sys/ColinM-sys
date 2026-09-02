@@ -35,7 +35,8 @@ LLM-driven red team framework for automated security research and assessment.
 - **Oracle AI World Tour NYC** (Apr 9, 2026)
 - **Spark Hack NYC 2026** (NVIDIA × Acer × Antler, Apr 10–12)
 - **SCSP National Security Hackathon** (Apr 25–26) — AI crisis wargame
-- **SCSP AI+ Discovery Summit** (Washington D.C., May) — 20K attendees, national security AI
+- **SCSP AI+ Expo** (Washington D.C., May) — 20K attendees, national security AI
+- **SCSP AI+ Discovery Genesis Mission**
 - **WordPress WordCamp** — Contributor day, semantic search work
 - **Convergent TV World** (2026) — Streaming & convergent media innovation
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
