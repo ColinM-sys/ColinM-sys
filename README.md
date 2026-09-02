@@ -22,7 +22,7 @@ Identified critical vulnerabilities in naval vessel management systems during co
 Merged PR #274 (php-ai-client + Ollama integration). Active on PR #976 (storage layer for embeddings) — pending guidance on dimensions-uniqueness. Building semantic search into WordPress core.
 
 **Autonomous Pentesting Agent** (Aug 2026)  
-LLM-driven red team orchestrator. Multi-model router, 65+ tool integration, real-time threat analysis and autonomous vulnerability discovery.
+LLM-driven red team framework for automated security research and assessment.
 
 ---
 
