@@ -38,7 +38,7 @@ LLM-driven red team framework for automated security research and assessment.
 - **Spark Hack NYC 2026** (NVIDIA × Acer × Antler, Apr 10–12)
 - **SCSP National Security Hackathon** (Apr 25–26) — AI crisis wargame
 - **SCSP AI+ Expo** (Washington D.C., May) — 20K attendees, national security AI
-- **SCSP AI+ Discovery Genesis Mission**
+- **SCSP AI+ Discovery Genesis Mission** (Washington D.C., July 21) — AI-driven scientific discovery, Genesis Mission launch
 - **Maritime Hacking Village CTF** (Aug 8–10) — 2,330 pts / 19 solves
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
 - **WordPress WordCamp US** (Phoenix Convention Center, Aug 16–19) — Contributor day, semantic search, embedding storage layer
