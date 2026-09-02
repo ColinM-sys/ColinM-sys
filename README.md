@@ -35,6 +35,7 @@ LLM-driven red team framework for automated security research and assessment.
 - **SCSP National Security Hackathon** (Apr 25–26) — AI crisis wargame
 - **SCSP AI+ Discovery Summit** (Washington D.C., May) — 20K attendees, national security AI
 - **WordPress WordCamp** — Contributor day, semantic search work
+- **Convergent TV World** (2026)
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
 - **Maritime Hacking Village CTF** (Aug 8–10) — 2,330 pts / 19 solves
 
