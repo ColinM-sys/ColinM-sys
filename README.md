@@ -26,6 +26,20 @@ LLM-driven red team framework for automated security research and assessment.
 
 ---
 
+## 🎤 Conferences & Events (2026)
+
+- **CES 2026** (Las Vegas, Jan) — AI everywhere, GB300 Grace Blackwell deep dive
+- **NVIDIA GTC 2026** (San Jose, Mar 16–19) — 4 hackathons, Hack to Create winner
+- **Oracle AI World Tour NYC** (Apr 9)
+- **Spark Hack NYC 2026** (NVIDIA × Acer × Antler, Apr 10–12)
+- **SCSP National Security Hackathon** (Apr 25–26) — AI crisis wargame
+- **SCSP AI+ Discovery Summit** (Washington D.C., May) — 20K attendees, national security AI
+- **WordPress WordCamp** — Contributor day, semantic search work
+- **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
+- **Maritime Hacking Village CTF** (Aug 8–10) — 2,330 pts / 19 solves
+
+---
+
 ## Credentials
 
 🏆 **Hack to Create Winner — NVIDIA GTC 2026**
