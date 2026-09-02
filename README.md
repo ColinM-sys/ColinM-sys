@@ -41,6 +41,7 @@ LLM-driven red team framework for automated security research and assessment.
 - **WordPress WordCamp** — Contributor day, semantic search work
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
 - **Maritime Hacking Village CTF** (Aug 8–10) — 2,330 pts / 19 solves
+- **The AI Summit New York** (Javits Center, Dec 10–11, 2025) — Enterprise AI transformation, 10-year celebration
 
 ---
 
