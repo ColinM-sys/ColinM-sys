@@ -26,11 +26,13 @@ LLM-driven red team framework for automated security research and assessment.
 
 ---
 
-## 🎤 Conferences & Events (2026)
+## 🎤 Conferences & Events (2025–2026)
 
+- **Oracle AI World** (Oct 2025) — First-ever inaugural event, AI infrastructure & enterprise
+- **NVIDIA GTC DC** (2025)
 - **CES 2026** (Las Vegas, Jan) — AI everywhere, GB300 Grace Blackwell deep dive
 - **NVIDIA GTC 2026** (San Jose, Mar 16–19) — 4 hackathons, Hack to Create winner
-- **Oracle AI World Tour NYC** (Apr 9)
+- **Oracle AI World Tour NYC** (Apr 9, 2026)
 - **Spark Hack NYC 2026** (NVIDIA × Acer × Antler, Apr 10–12)
 - **SCSP National Security Hackathon** (Apr 25–26) — AI crisis wargame
 - **SCSP AI+ Discovery Summit** (Washington D.C., May) — 20K attendees, national security AI
