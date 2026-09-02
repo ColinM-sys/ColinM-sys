@@ -30,6 +30,7 @@ LLM-driven red team framework for automated security research and assessment.
 
 - **Oracle AI World** (Oct 2025) — First-ever inaugural event, AI infrastructure & enterprise
 - **NVIDIA GTC Washington D.C.** (Oct 28–29, 2025) — AI/accelerated computing, Jensen Huang keynote, government leaders panel
+- **The AI Summit New York** (Javits Center, Dec 10–11, 2025) — Enterprise AI transformation, 10-year celebration
 - **CES 2026** (Las Vegas, Jan 5) — NVIDIA Live keynote with CEO Jensen Huang, AI/robotics/Vera Rubin GPU announcements
 - **Convergent TV World 2026** (The Times Center, NYC, Mar 5–6) — Cross-screen TV strategy, FAST/AVOD, retail media, unified measurement
 - **NVIDIA GTC 2026** (San Jose, Mar 16–19) — 4 hackathons, Hack to Create winner
@@ -41,7 +42,6 @@ LLM-driven red team framework for automated security research and assessment.
 - **WordPress WordCamp** — Contributor day, semantic search work
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
 - **Maritime Hacking Village CTF** (Aug 8–10) — 2,330 pts / 19 solves
-- **The AI Summit New York** (Javits Center, Dec 10–11, 2025) — Enterprise AI transformation, 10-year celebration
 
 ---
 
