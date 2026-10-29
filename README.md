@@ -7,22 +7,14 @@ AI/ML Developer | Security Researcher | Open Source Contributor | Maritime SIGIN
 
 ## 🔥 Recent (2026)
 
-**Maritime Security Research** (Aug 2026)  
-Identified critical vulnerabilities in naval vessel management systems during coordinated disclosure process. Steered real vessels, demonstrated system compromise under CVD protocol. — Jersey Devil 404
+**Oracle AI Data Platform Hackathon** (Oracle AI World, Las Vegas, Oct 25, 2026)  
+Built an end-to-end AI agent on the Oracle AI Data Platform.
 
-**DEF CON 34** (Aug 2026)  
-- AIS CTF: Injected spoofed maritime traffic into live naval displays (Ethernet-fed)
-- Badge reverse-engineering: RE'd DC34 badge LED control protocol (80ms/byte, bio tx protocol) from Jetson
-- SAO challenge: Reverse-engineered SAO LED driver I2C registers for color-change exploit
+**Codex + Oracle Database Hackathon** (Oracle AI World, Las Vegas, Oct 28, 2026)  
+OpenAI Codex + Oracle Database hackathon.
 
-**Maritime Hacking Village CTF** (Aug 8–10, 2026)  
-2,330 points / 19 solves. ELF source located but time-constrained. Crane WiFi client isolation bypassed via /32 gateway routes. Built autonomous Pi watchdog banked the queue through connectivity hell.
-
-**WordPress AI Contributor Day** (Aug 2026)  
-Merged PR #274 (php-ai-client + Ollama integration). Active on PR #976 (storage layer for embeddings) — pending guidance on dimensions-uniqueness. Building semantic search into WordPress core.
-
-**Autonomous Pentesting Agent** (Aug 2026)  
-LLM-driven red team framework for automated security research and assessment.
+**NVIDIA Agent Gauntlet** (NVIDIA Developer livestream, Nov 5, 2026)  
+Competing in NVIDIA's agentic AI challenge, featured on the NVIDIA Developer livestream.
 
 ---
 
@@ -41,7 +33,10 @@ LLM-driven red team framework for automated security research and assessment.
 - **SCSP AI+ Discovery Genesis Mission** (Washington D.C., July 21) — AI-driven scientific discovery, Genesis Mission launch
 - **Maritime Hacking Village CTF** (Aug 8–10) — 5th place overall (solo) / 2,330 pts / 19 solves in 24 hours
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
-- **WordPress WordCamp US** (Phoenix Convention Center, Aug 16–19) — Contributor day, semantic search, embedding storage layer
+- **WordPress WordCamp US** (Phoenix Convention Center, Aug 16–19) — Contributor day; merged PR #274 (php-ai-client + Ollama), active on PR #976 (embeddings storage layer); semantic search in WordPress core
+- **Oracle AI Data Platform Hackathon** (Oracle AI World, Las Vegas, Oct 25, 2026) — built an end-to-end AI agent on the Oracle AI Data Platform
+- **Codex + Oracle Database Hackathon** (Oracle AI World, Las Vegas, Oct 28, 2026) — OpenAI Codex + Oracle Database hackathon
+- **NVIDIA Agent Gauntlet** (NVIDIA Developer livestream, Nov 5, 2026) — agentic AI challenge featured on the NVIDIA Developer livestream
 
 ---
 
@@ -109,6 +104,7 @@ Across NeMo Agent Toolkit, NemoClaw, NeMo Guardrails. CVE-2026-24222 (CVSS 8.6 H
 - **[local-network-chat](https://github.com/ColinM-sys/local-network-chat)** — Local chat between computers on the same network
 - **50 Words AI Pipeline** — Multi-model LLM pipeline for PR and media drafting (Qwen 2.5 14B + Ollama, 3-machine distributed setup)
 - **Maritime SIGINT Project** — Real-time geospatial data broadcasting at scale; edge device deployment
+- **Autonomous Pentesting Agent** — LLM-driven red team framework for automated security research and assessment
 
 ---
 
