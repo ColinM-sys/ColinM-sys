@@ -7,7 +7,7 @@ AI/ML Developer | Security Researcher | Open Source Contributor | Maritime SIGIN
 
 ## 🔥 Recent (2026)
 
-**Oracle AI Data Platform Hackathon** (Oracle AI World, Las Vegas, Oct 25, 2026)  
+**Oracle AI Data Platform Hackathon** (Oracle × NVIDIA, Oracle AI World, Las Vegas, Oct 25, 2026)  
 Built an end-to-end AI agent on the Oracle AI Data Platform.
 
 **Codex + Oracle Database Hackathon** (Oracle AI World, Las Vegas, Oct 28, 2026)  
@@ -34,7 +34,7 @@ Competing in NVIDIA's agentic AI challenge, featured on the NVIDIA Developer liv
 - **Maritime Hacking Village CTF** (Aug 8–10) — 5th place overall (solo) / 2,330 pts / 19 solves in 24 hours
 - **DEF CON 34** (Las Vegas, Aug) — AIS CTF, badge hacking, SAO challenge
 - **WordPress WordCamp US** (Phoenix Convention Center, Aug 16–19) — Contributor day; merged PR #274 (php-ai-client + Ollama), active on PR #976 (embeddings storage layer); semantic search in WordPress core
-- **Oracle AI Data Platform Hackathon** (Oracle AI World, Las Vegas, Oct 25, 2026) — built an end-to-end AI agent on the Oracle AI Data Platform
+- **Oracle AI Data Platform Hackathon** (Oracle × NVIDIA, Oracle AI World, Las Vegas, Oct 25, 2026) — built an end-to-end AI agent on the Oracle AI Data Platform
 - **Codex + Oracle Database Hackathon** (Oracle AI World, Las Vegas, Oct 28, 2026) — OpenAI Codex + Oracle Database hackathon
 - **NVIDIA Agent Gauntlet** (NVIDIA Developer livestream, Nov 5, 2026) — agentic AI challenge featured on the NVIDIA Developer livestream
 
