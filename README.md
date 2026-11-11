@@ -81,10 +81,12 @@ Across NeMo Agent Toolkit, NemoClaw, NeMo Guardrails. Published CVEs credited in
 
 ---
 
-## NVIDIA Open Source Contributions
+## Open Source Contributions
 
-- **NVIDIA NemoClaw** — merged contributor (security, testing)
-- **NVIDIA NeMo Agent Toolkit** — merged contributor (security, middleware)
+- **[NVIDIA NemoClaw](https://github.com/NVIDIA/NemoClaw/pulls?q=is%3Apr+author%3AColinM-sys+is%3Amerged)** — merged contributor, 24 PRs (security, testing)
+- **[NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls?q=is%3Apr+author%3AColinM-sys+is%3Amerged)** — merged contributor, 3 PRs (security, middleware)
+- **[NVIDIA Model Optimizer](https://github.com/NVIDIA/Model-Optimizer/pull/2792)** — merged contributor (docs)
+- **[WordPress AI](https://github.com/WordPress/ai/pull/976)** — merged contributor: portable storage and CRUD layer for embeddings
 
 ---
 
