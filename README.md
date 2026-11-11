@@ -65,7 +65,13 @@ Built [StraitOfConsequences](https://github.com/ColinM-sys/StraitOfConsequences)
 ## 🔒 Security Research
 
 **60+ Confirmed Findings** — NVIDIA PSIRT  
-Across NeMo Agent Toolkit, NemoClaw, NeMo Guardrails. CVE-2026-24222 (CVSS 8.6 High) published in NVIDIA Security Bulletin.
+Across NeMo Agent Toolkit, NemoClaw, NeMo Guardrails. Published CVEs credited in NVIDIA Security Bulletins:
+
+| CVE | Product | Issue | CVSS | Bulletin |
+|---|---|---|---|---|
+| **CVE-2026-65145** | NeMo Agent Toolkit | Missing authentication leading to code execution (CWE-306) | **10.0 Critical** | [Oct 2026](https://github.com/NVIDIA/product-security/blob/main/2026/5912/5912.md) (co-credited) |
+| **CVE-2026-24222** | NemoClaw | Sandbox initialization exposes host environment variables (CWE-497) | **8.6 High** | [Apr 2026](https://nvidia.custhelp.com/app/answers/detail/a_id/5837) |
+| **CVE-2026-65151** | NeMo Agent Toolkit | SQL injection (CWE-89) | **8.4 High** | [Oct 2026](https://github.com/NVIDIA/product-security/blob/main/2026/5912/5912.md) |
 
 **Samsung PSIRT** — Zero-auth DLNA injection + RCE chains
 
